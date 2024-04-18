@@ -1736,7 +1736,6 @@
     )
   )
 
-
   (junction (at 86.36 156.21) (diameter 0) (color 0 0 0 0)
     (uuid 05a1db0f-6b55-4424-a945-e44824623de9)
   )
@@ -2275,7 +2274,7 @@
     (uuid 3a8a3dc1-1f9d-4670-a6b6-0c8011940634)
     (property "Reference" "IC4" (id 0) (at 78.74 38.1 0))
     (property "Value" "USBLC6-4SC6" (id 1) (at 78.74 40.64 0))
-    (property "Footprint" "" (id 2) (at 66.04 43.18 0)
+    (property "Footprint" "SamacSys_Parts:SOT95P280X145-6N" (id 2) (at 66.04 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf" (id 3) (at 66.04 45.72 0)
@@ -2625,7 +2624,7 @@
     (uuid baa56723-6a69-4c4e-9aaf-b767e2fef8e6)
     (property "Reference" "U5" (id 0) (at 125.095 36.83 0))
     (property "Value" "918-418K2023S40026" (id 1) (at 125.095 39.37 0))
-    (property "Footprint" "" (id 2) (at 121.92 45.72 0)
+    (property "Footprint" "SamacSys_Parts:USB_conn" (id 2) (at 121.92 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 121.92 45.72 0)
